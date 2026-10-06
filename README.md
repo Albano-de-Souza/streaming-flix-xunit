@@ -46,8 +46,8 @@ Os testes usam [Theory] com [InlineData]: cada método de teste recebe parâmetr
 | Papel | Responsável | Entregas |
 | --- | --- | --- |
 | Desenvolvedor 1 (Backend / Core) | Albano de Souza | Solução, projetos e PlanoStreamingService |
-| Desenvolvedor 2 (QA / Testes) | Alice Barbosa | PlanoStreamingServiceTests com [Theory] e [InlineData] |
-| Desenvolvedor 3 (Documentação / DevOps) | Ana Carolina Freitas | Repositório, .gitignore, licença MIT e README.md |
+| Desenvolvedor 2 (QA / Testes) | Alice Fernandes Barbosa | PlanoStreamingServiceTests com [Theory] e [InlineData] |
+| Desenvolvedor 3 (Documentação / DevOps) | Ana Carolina de Sousa Freitas | Repositório, .gitignore, licença MIT e README.md |
 
 ## Licença
 MIT
